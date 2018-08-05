@@ -12,4 +12,5 @@ etc...
 ## References
 
 - Unix Network Programming Vol.1 [second edition]
-- Rust Standard Library
+- [Rust Standard Library](https://github.com/rust-lang/rust/tree/master/src/libstd/net)
+- [libpnet library](https://github.com/libpnet/libpnet)

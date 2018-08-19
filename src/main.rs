@@ -1,7 +1,7 @@
-extern crate network_programming_in_rust;
+extern crate network_programming;
 
 #[allow(unused)]
-use network_programming_in_rust::network;
+use network_programming::network;
 
 fn main() {
     println!("Network Programming in Rust.");

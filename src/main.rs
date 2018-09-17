@@ -4,8 +4,6 @@ extern crate network_programming;
 use network_programming::network;
 
 fn main() {
-    println!("Network Programming in Rust.");
-
     // network::tcp_client::run();
     // network::tcp_echo_server::run();
     // network::tcp_echo_random_server::run();

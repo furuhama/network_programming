@@ -11,5 +11,5 @@ fn main() {
     // network::udp_echo_server::run();
     // network::udp_client::run();
     network::packet_handler::interfaces();
-    network::packet_handler::run();
+    // network::packet_handler::run();
 }

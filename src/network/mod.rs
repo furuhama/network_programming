@@ -4,3 +4,4 @@ pub mod tcp_echo_random_server;
 pub mod lookup_host;
 pub mod udp_echo_server;
 pub mod udp_client;
+pub mod packet_handler;

@@ -9,5 +9,4 @@ fn main() {
     // network::tcp_echo_random_server::run();
     // network::udp_echo_server::run();
     // network::udp_client::run();
-    network::lookup_host::run();
 }

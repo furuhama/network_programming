@@ -5,5 +5,3 @@ authors = ["furuhama <furuhama@users.noreply.github.com>"]
 
 [dependencies]
 rand = "*"
-pnet = "*"
-ipnetwork = "*"
